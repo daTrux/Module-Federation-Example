@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en-US" trgLang="it-IT">
+  <file id="ngi18n" original="ng.template">
+    <unit id="7882206348885551412">
+      <notes>
+        <note category="location">src/app/remote-template/remote-template.component.ts:15</note>
+      </notes>
+      <segment state="translated">
+        <source>Your Remote Template Works!</source>
+        <target>Il tuo Remote Template funziona!</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
